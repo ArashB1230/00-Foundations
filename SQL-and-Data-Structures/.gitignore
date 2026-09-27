@@ -4,4 +4,6 @@ __pycache__/
 venv/
 env/
 cleaned/
+data/*.db
+data/*.sqlite*
 .pytest_cache/
