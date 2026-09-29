@@ -2,17 +2,22 @@
 
 This stage builds the habits required for reliable data and machine-learning work. The projects are intentionally small, dependency-light, and designed to be understood and tested quickly with Python's standard library.
 
-The goal is to establish a solid base before moving into statistics, ML, deep learning, and research. These exercises focus on habits that matter in real projects: writing clean code, testing behavior, using Git well, understanding data structures, and validating results with reproducible workflows.
+The goal is to establish a solid base before moving into statistics, ML, deep learning, and research. These exercises focus on habits that matter in real projects:
+- writing clean and maintainable code,
+- testing behavior rather than assumptions,
+- using Git and project structure properly,
+- understanding data structures and algorithms,
+- validating data before analysis,
+- documenting and reproducing project workflows.
 
 ## Why this stage matters
 
 Strong ML work depends on fundamentals that are easy to overlook:
-- writing code that is easy to read and debug,
-- checking project health with Git and documentation,
-- understanding data structures instead of relying on ad hoc logic,
-- processing and validating data before modeling,
-- building simple but reliable analytics workflows,
-- practicing the engineering discipline that makes later projects manageable.
+- code should be readable and debug-friendly,
+- project health should be checkable with simple tools,
+- data should be handled with structure and validation,
+- analysis should be reproducible and reviewable,
+- engineering discipline matters as much as model quality.
 
 ## Projects in this stage
 
